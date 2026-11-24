@@ -1,6 +1,6 @@
 cask "katamaran" do
-  version "0.8.0"
-  sha256 "56a89c20d43c78b98f134ffe5cd3eb99f336b8359653bcbf25a54f27b1367051"
+  version "0.9.1"
+  sha256 "aafde47cd942991817a9d6b42530c2444114ed1c8b47dffbf0c0cfe72c6447d5"
 
   url "https://github.com/nklmilojevic/katamaran/releases/download/v#{version}/Katamaran-#{version}.dmg"
   name "Katamaran"
